@@ -1,4 +1,5 @@
 Google Data Analytics Professional Capstone
+
 Case Study 1: How Does A Bike-Share Navigate Speedy Success?
 
 
@@ -161,6 +162,7 @@ start_station_name,
 end_station_name,
 member_casual 
 having count(*)>1;
+```
 
 4 & 5: Analyze and Share
 
