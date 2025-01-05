@@ -311,19 +311,18 @@ Data Visualization
 The data has been meticulously stored and prepared for thorough analysis. Relevant information was extracted from multiple tables and then effectively visualized using **Power Bi**. The primary objective of this analysis is *to understand the distinct usage patterns of Cyclistic bikes between annual members and casual riders.*
 
 To initiate this comparison, we carefully examine and compare the specific types of bikes that each group, comprising annual members and casual riders, frequently utilizes.
-Total Bike Types.PNG
-
+[Total Bike Types.PNG](https://github.com/Layasri-B/Cyclistic-Bike-Share/blob/ecd01527d4cbf5bf0446febbdf151e316b0b4656/Total%20Bike%20Types.PNG)
 
 The composition of Cyclistic users can be divided into two major categories: members, accounting for approximately 59.7% of the total, and casual riders, comprising the remaining 40.3%. The percentage distribution for each bike type reveals that the classic bike is the most popular among both member and casual rider groups, with the electric bike ranking second in popularity. Interestingly, docked bikes are predominantly used by casual riders and represent the least utilized bike type within the Cyclistic service.
 
 Moving on, we delve into the analysis of trip distributions based on different time parameters. Specifically, we explore the number of trips distributed across months, days of the week, and hours of the day.
-Total Trips in 2024.PNG
+[Total Trips in 2024.PNG](https://github.com/Layasri-B/Cyclistic-Bike-Share/blob/ecd01527d4cbf5bf0446febbdf151e316b0b4656/Total%20Trips%20in%202024.PNG)
 
 
 In terms of monthly trips, both casual riders and members exhibit similar patterns, with a higher number of trips occurring during the spring and summer months, and a decline during the winter season. Interestingly, the gap between casual riders and members is narrowest in the month of July during the summer.
 
 When comparing trips based on the days of the week, it is evident that casual riders tend to take more journeys over the weekends, while members show a decline in trip frequency during the weekends compared to the rest of the weekdays.
-Total trips at start location.PNG
+[Total trips at start location.PNG](https://github.com/Layasri-B/Cyclistic-Bike-Share/blob/ecd01527d4cbf5bf0446febbdf151e316b0b4656/Total%20trips%20at%20start%20location.PNG)
 
 
 Analyzing trips based on the hours of the day reveals distinct patterns for members and casual riders. Members display two peak periods for trips, occurring in the early morning from around 6 am to 8 am, and in the evening from around 4 pm to 8 pm. In contrast, the number of trips for casual riders steadily increases throughout the day, peaking in the evening and then gradually decreasing.
@@ -337,7 +336,7 @@ It is important to note that casual riders tend to have longer cycling trips com
 Based on these findings, it can be inferred that casual riders travel longer distances, approximately twice as much as members, but less frequently. Their longer journeys are often observed on weekends and during the day outside of typical commuting hours, particularly in the spring and summer months, suggesting that they might be cycling for recreational purposes.
 
 To gain further insights into the differences between casual and member riders, an analysis of the starting and ending stations' locations can be conducted. By filtering and examining stations with the most trips, additional conclusions can be drawn.
-Total trips at end location.PNG
+[Total trips at end location.PNG](https://github.com/Layasri-B/Cyclistic-Bike-Share/blob/ecd01527d4cbf5bf0446febbdf151e316b0b4656/Total%20trips%20at%20end%20location.PNG)
 
 
 Casual riders often initiate their trips from stations located near museums, parks, beaches, harbors, and aquariums, whereas members tend to start their journeys from stations in proximity to universities, residential areas, restaurants, hospitals, grocery stores, theaters, schools, banks, factories, train stations, parks, and plazas.
